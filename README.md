@@ -27,5 +27,5 @@
 
   
 <div> 
-<img src="https://semicon.github.io/semicon/github-contribution-grid-snake.svg>
+<img src="semicon.github.io/img/snake.svg">
 </div>
