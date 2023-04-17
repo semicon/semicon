@@ -27,5 +27,5 @@
 
   
 <div> 
-![Snake animation](https://semicon.github.io/semicon/github-contribution-grid-snake.svg)
+<img src="https://semicon.github.io/semicon/github-contribution-grid-snake.svg>
 </div>
