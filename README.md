@@ -27,5 +27,5 @@
 
   
 <div> 
-![Snake animation](https://github.com/semicon/semicon/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://semicon.github.io/semicon/github-contribution-grid-snake.svg)
 </div>
