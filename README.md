@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=semicon&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=semicon&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div>
 <p align="left"> 
