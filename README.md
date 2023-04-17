@@ -27,5 +27,5 @@
 
   
 <div> 
-![Snake animation](https://github.com/kenyuu2143/kenyuu2143/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/semicon/semicon/blob/output/github-contribution-grid-snake.svg)
 </div>
