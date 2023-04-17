@@ -27,5 +27,5 @@
 
   
 <div> 
-![https://semicon.github.io/img/github-contribution-grid-snake.svg](https://semicon.github.io/img/github-contribution-grid-snake.svg)
+<img src = "https://semicon.github.io/img/github-contribution-grid-snake.svg">
 </div>
