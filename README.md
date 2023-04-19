@@ -26,6 +26,6 @@
 </p>
 
   
-<div> 
+<p align="left"> 
 <img src = "https://semicon.github.io/img/github-contribution-grid-snake.svg">
-</div>
+</p>
