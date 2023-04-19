@@ -18,12 +18,12 @@
 
 <p align="left"> 
 <a href="https://github.com/semicon">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=semicon&count_private=true&show_icons=true&theme=dracula" />
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=semicon&count_private=true&show_icons=true&theme=monokai" />
 </a>
 <a href="https://github.com/semicon">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semicon&layout=compact&theme=dracula" />
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semicon&layout=compact&theme=monokai" />
 </a>
-  </p>
+</p>
 
   
 <div> 
