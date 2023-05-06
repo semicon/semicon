@@ -1,4 +1,4 @@
-### สวัสดีทุกคน 🙏
+### Hi สวัสดีทุกคน Assalamu alaikum السَّلَامُ عَلَيْكُمْ  🙏
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=semicon&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
