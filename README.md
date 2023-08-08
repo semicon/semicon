@@ -1,6 +1,6 @@
 ### Hi สวัสดีทุกคน Assalamu alaikum السَّلَامُ عَلَيْكُمْ  🙏
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=semicon&theme=dracula)]
 
 <div>
 <p align="left"> 
