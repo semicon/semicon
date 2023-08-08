@@ -5,7 +5,7 @@
 <div>
 <p align="left"> 
   <a href="https://github.com/semicon">
-    <img src="https://komarev.com/ghpvc/?username=semicon" alt="semicon" />
+    <img src="https://komarev.com/ghpvc/?username=semicon"&label="semicon" />
   </a>
   <a href="https://twitter.com/home?lang=th">
     <img height="20" src="https://img.shields.io/twitter/follow/semicon?label=Twitter&logo=twitter&style=flat" />
