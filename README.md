@@ -1,5 +1,5 @@
 ### Hi สวัสดีทุกคน Assalamu alaikum السَّلَامُ عَلَيْكُمْ  🙏
-<a href="[https://github.com/semicon](https://semicon.github.io/)">
+<a href="https://semicon.github.io/">
 https://semicon.github.io/
 </a>
 
