@@ -5,8 +5,6 @@ https://semicon.github.io/
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=semicon&theme=dracula)
 
-<img height="110" src="https://camo.githubusercontent.com/800bc3f8b21887851729a49629506731690189043155ab110574f808414cb2b2/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d73656d69636f6e267468656d653d64726163756c61" />
-
 <div>
 <p align="left"> 
   <a href="https://github.com/semicon">
