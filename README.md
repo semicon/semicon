@@ -9,7 +9,7 @@ https://semicon.github.io/
     <img height="30" src="https://komarev.com/ghpvc/?username=semicon"&label="semicon" />
   </a>
   <a href="https://twitter.com/home?lang=th">
-    <img height="30" src="https://img.shields.io/github/checks-status/semicon/semicon.github.io/semicon" />
+    <img height="30" src="https://img.shields.io/github/checks-status/semicon/semicon/semicon" />
   </a>
   <a href="https://github.com/semicon">
     <img height="30" src="https://img.shields.io/github/followers/semicon?label=follow&logo=github&style=flat" />
