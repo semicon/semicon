@@ -5,6 +5,7 @@ https://semicon.github.io/
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=semicon&theme=dracula)
 
+<img height="20" src="https://github-profile-trophy.vercel.app/?username=semicon&theme=dracula" />
 <div>
 <p align="left"> 
   <a href="https://github.com/semicon">
