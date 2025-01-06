@@ -5,13 +5,13 @@ https://semicon.github.io/
 <img height="105" src="https://github-profile-trophy.vercel.app/?username=semicon&theme=dracula" />
 <div>
 <p align="left"> 
-  <a href="https://github.com/semicon">
+  <a href="https://github.com/semicon" target="_blank">
     <img height="30" src="https://komarev.com/ghpvc/?username=semicon"&label="semicon" />
   </a>
-  <a href="https://github.com/semicon">
+  <a href="https://github.com/semicon" target="_blank">
     <img height="30" src="https://img.shields.io/github/followers/semicon?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://twitter.com/home?lang=th">
+  <a href="https://twitter.com/home?lang=th" target="_blank">
     <img height="30" src="https://img.shields.io/twitter/follow/semicon" />
   </a>
 </p>
