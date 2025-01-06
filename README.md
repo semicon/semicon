@@ -8,11 +8,11 @@ https://semicon.github.io/
   <a href="https://github.com/semicon">
     <img height="30" src="https://komarev.com/ghpvc/?username=semicon"&label="semicon" />
   </a>
-  <a href="https://twitter.com/home?lang=th">
-    <img height="30" src="https://img.shields.io/twitter/follow/semicon" />
-  </a>
   <a href="https://github.com/semicon">
     <img height="30" src="https://img.shields.io/github/followers/semicon?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://twitter.com/home?lang=th">
+    <img height="30" src="https://img.shields.io/twitter/follow/semicon" />
   </a>
 </p>
 
