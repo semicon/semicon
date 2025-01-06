@@ -2,7 +2,7 @@
 ### <a href="https://semicon.github.io/">
 https://semicon.github.io/
 </a>
-<img height="110" src="https://github-profile-trophy.vercel.app/?username=semicon&theme=dracula" />
+<img height="105" src="https://github-profile-trophy.vercel.app/?username=semicon&theme=dracula" />
 <div>
 <p align="left"> 
   <a href="https://github.com/semicon">
