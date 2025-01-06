@@ -9,10 +9,10 @@ https://semicon.github.io/
     <img src="https://komarev.com/ghpvc/?username=semicon"&label="semicon" />
   </a>
   <a href="https://twitter.com/home?lang=th">
-    <img height="20" src="https://img.shields.io/twitter/follow/semicon?label=Twitter&logo=twitter&style=flat" />
+    <img height="30" src="https://img.shields.io/twitter/follow/semicon?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/semicon">
-    <img height="20" src="https://img.shields.io/github/followers/semicon?label=follow&logo=github&style=flat" />
+    <img height="30" src="https://img.shields.io/github/followers/semicon?label=follow&logo=github&style=flat" />
   </a>
 </p>
 
